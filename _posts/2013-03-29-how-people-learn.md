@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: How People Learn
 ---
 The Spring 2013 quarter at [The Starter League](http://starterleague.com) has begun, and we're excited to get started!

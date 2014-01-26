@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Jailbreak Apps That Made The Cut
 ---
 In a [a previous post](http://dankim.org/blog/2013/03/06/jailbreaking-the-80-20-rule.html) I investigated Jailbreaking and outlined my initial setup.

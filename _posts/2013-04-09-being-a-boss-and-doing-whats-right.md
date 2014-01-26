@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Being A Boss And Doing What's Right
 ---
 Being a boss at a company is hard. Often there are constraints beyond your control that make it hard to keep people happy.

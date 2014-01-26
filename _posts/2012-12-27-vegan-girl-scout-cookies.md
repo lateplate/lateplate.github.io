@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Vegan Girl Scout Cookies?
 tags: veg
 ---

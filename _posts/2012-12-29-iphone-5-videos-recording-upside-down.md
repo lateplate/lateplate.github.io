@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: iPhone 5 Videos Recording Upside Down
 ---
 Shooting video with your iPhone horizontally _with the volume buttons on the top, home button to the left_ actually [shoots video upside down](http://www.telegraph.co.uk/technology/advice/9648571/My-iPhone-video-is-upside-down).

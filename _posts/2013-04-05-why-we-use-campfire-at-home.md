@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Why We Use Campfire At Home
 ---
 When I tell people I use [Campfire](http://campfirenow.com/) to communicate with [my wife Julie](https://twitter.com/juliekim2) during the day, they're often surprised.

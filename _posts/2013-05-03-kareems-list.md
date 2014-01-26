@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Kareem's List
 ---
 1. Be more outgoing.
