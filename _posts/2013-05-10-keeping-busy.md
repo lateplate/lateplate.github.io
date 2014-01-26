@@ -9,7 +9,7 @@ It's not ideal for our bank account, but it _is_ refreshing for the mind, body, 
 
 Here's what's been keeping me busy.
 
-## Personal
+### Personal
 
 - Watching [my boys grow up](http://photos.dankim.org/kids/share) every day. Most importantly, [teaching them about the Harlem Shake](http://www.youtube.com/watch?v=Pr_e7Fl1QIA).
 - Staying active. Remembering to play with [Parker](http://photos.dankim.org/Pets), take more walks, and even shoot some hoops. (Note: the shooting hoops part was ugly.)
@@ -18,7 +18,7 @@ Here's what's been keeping me busy.
 - Reading. Trying to finish up [Quiet](http://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?ie=UTF8&qid=1368194405&sr=8-1&keywords=quiet) and [Dream Team](http://www.amazon.com/Dream-Team-Greatest-Conquered-Basketball/dp/0345520483/ref=sr_1_1?ie=UTF8&qid=1368194407&sr=8-1&keywords=dream+team). Both are excellent so far.
 - Writing. Trying to keep this blog up to date and interesting.
 
-## Professional
+### Professional
 
 - Teaching (and learning) HTML by being a teaching assistant and mentor at [The Starter League](http://www.starterleague.com/).
 - Learning the basics of Ruby. Wrote a quick class to see if I could [pull Twitter profile images](https://gist.github.com/lateplate/5554620).

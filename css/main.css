@@ -1,42 +1,45 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
-
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
 }
 
-html, body { height: 100%; }
-
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+  font-family: Georgia, Palatino, serif;
+  font-size: 1em;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+h1 {
+  font-size: 1.5em;
+  margin: 20px 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+h2 {
+  font-size: 1.4em;
+  margin: 20px 0;
+  color: #484848;
+}
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+h3 {
+  font-size: 1.15em;
+  margin: 20px 0;
+}
 
-/*****************************************************************************/
-/*
-/* Home
-/*
-/*****************************************************************************/
+a {
+  color: #00a;
+}
+
+a:hover {
+  color: #000;
+}
+
+a:visited {
+  color: #a0a;
+}
+
 .posts {
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
 .posts li {
@@ -46,31 +49,22 @@ a:visited { color: #a0a; }
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  font-size: .8em;
 }
 
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
-
 .site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 .header a {
   font-weight: bold;
   text-decoration: none;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
 }
 
 .title a {
@@ -95,16 +89,13 @@ a:visited { color: #a0a; }
 }
 
 .footer {
-  font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
+  font-size: .9em;
+  line-height: 1.5em;
+  padding: 20px 0;
 }
 
 .footer .contact a {
@@ -121,13 +112,18 @@ a:visited { color: #a0a; }
   border: 0;
 }
 
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
+.post {
+  line-height: 1.5em;
+}
 
-/* standard */
+.post li {
+  margin: 10px 0;
+}
+
+.post p {
+  margin: 10px 0;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -135,7 +131,7 @@ a:visited { color: #a0a; }
 }
 
 .post ul, .post ol {
-  margin-left: 1.35em;
+  margin-left: 2em;
 }
 
 .post code {
@@ -157,4 +153,17 @@ a:visited { color: #a0a; }
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+@media all and (min-width: 410px) {
+  .footer .contact {
+    float: left;
+    margin-right: 3em;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .site {
+    width: 670px;
+  }
 }

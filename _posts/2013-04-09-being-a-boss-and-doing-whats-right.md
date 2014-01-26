@@ -12,7 +12,7 @@ We researched standards and averages in our area. We asked friends what they wer
 
 It turns out we were asking the wrong questions. There was a far better, simpler question to ask.
 
-## What's the _right_ thing for us to do?
+### What's the _right_ thing for us to do?
 
 Once we thought about it that way, we answered everything in an hour.
 

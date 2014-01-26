@@ -8,7 +8,7 @@ Part of that excitement is the chance to make every quarter successively better.
 
 Recently I ran across a fascinating article about [how people learn](http://www.farnamstreetblog.com/2013/01/how-people-learn"). It's worth reading in full, but there were a few key insights that really stood out.
 
-## Teach less.
+### Teach less.
 
 Your capacity to learn in a given session is limited to just a few ideas. When more is covered, less is retained. 
 
@@ -16,7 +16,7 @@ We think about this a lot. We have eleven weeks to build your core skills, get y
 
 We know we can't cover everything in eleven weeks. Our goal is to give you the practical skills to code confidently, build, ship, and continue your journey.
 
-## It's not about facts. It's about applying knowledge.
+### It's not about facts. It's about applying knowledge.
 
 Memorizing facts and techniques is necessary, but applying that knowledge to a real problem is crucial to learning and retention.
 
@@ -24,7 +24,7 @@ This is why we believe so much in [Starter Night](http://www.starterleague.com/s
 
 Having been a student last quarter, I can attest to the value of building something real. Our team was frustrated with friends who forgot to return our stuff. In four weeks we built an app from the ground up and [shipped it](http://www.startnagging.com). It was a proud moment, and one that I can't wait for each of you to experience.
 
-## Connect and be present.
+### Connect and be present.
 
 Everyone has different backgrounds, so it's important that we make a connection with you. 
 
