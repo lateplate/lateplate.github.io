@@ -9,6 +9,11 @@ body {
   font-size: 1em;
 }
 
+h2, h3 {
+  margin: 20px 0;
+  color: #484848;
+}
+
 h1 {
   font-size: 1.5em;
   margin: 20px 0;
@@ -17,13 +22,10 @@ h1 {
 
 h2 {
   font-size: 1.4em;
-  margin: 20px 0;
-  color: #484848;
 }
 
 h3 {
   font-size: 1.15em;
-  margin: 20px 0;
 }
 
 a {
