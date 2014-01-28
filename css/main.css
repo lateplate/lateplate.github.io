@@ -45,7 +45,7 @@ a:visited {
 }
 
 .posts li {
-  line-height: 1.75em;
+  line-height: 1.7em;
 }
 
 .posts span {
@@ -167,5 +167,14 @@ a:visited {
 @media all and (min-width: 768px) {
   .site {
     width: 670px;
+    font-size: 1.1em;
+  }
+
+  .post {
+    line-height: 1.75em;
+  }
+
+  .posts li {
+    line-height: 1.85em;
   }
 }
