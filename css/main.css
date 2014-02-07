@@ -35,12 +35,12 @@ a {
   color: #00a;
 }
 
-a:hover {
-  color: #000;
+a:visited {
+  color: #8085C1;
 }
 
-a:visited {
-  color: #a0a;
+a:hover {
+  color: #000;
 }
 
 .posts {
@@ -100,10 +100,6 @@ a:visited {
   font-size: .9em;
   line-height: 1.5em;
   padding: 20px 0;
-}
-
-.footer .contact a {
-  color: #8085C1;
 }
 
 .footer .rss {
@@ -178,6 +174,7 @@ a:visited {
   }
 
   .posts li {
+    font-size: .9em;
     line-height: 1.85em;
   }
 }
