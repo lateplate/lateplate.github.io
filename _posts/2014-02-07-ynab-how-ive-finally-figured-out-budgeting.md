@@ -10,17 +10,17 @@ But I never felt like I really understood budgeting that well. I knew what I did
 
 Recently I started using [You Need A Budget](http://www.youneedabudget.com/) - known as "YNAB" to its loyal customers. I've heard people say great things about it, but never tried it. But boy am I glad I did. It's been truly eye-opening.
 
-YNAB is not only a nice piece of budgeting software, but more importantly it's [a method](http://www.youneedabudget.com/method). It's a philosophy about how to realistically budget your money each month, built around a very simple idea: [give every dollar you earn a job](http://www.youneedabudget.com/method/rule-one). That guiding premise, combined with [rule three: roll with the punches](http://www.youneedabudget.com/method/rule-three), has really make clear what was once fuzzy.
+YNAB is not only a nice piece of budgeting software, but more importantly it's [a method](http://www.youneedabudget.com/method). It's a philosophy about how to realistically budget your money each month, built around a very simple idea: [give every dollar a job](http://www.youneedabudget.com/method/rule-one). That guiding principal, combined with [rule three: roll with the punches](http://www.youneedabudget.com/method/rule-three), has really make clear what was once fuzzy.
 
-YNAB works because it runs counter to traditional, strict budgeting methods. With conventional bugeting, you're told to set dollar amounts for everything you expect to spend money on, and never to go over those amounts. But that kind of budgeting has a common result: you routinely blow through a budget category (or your entire budget), and you chalk it up as a failure. And after a couple of months like that, it's easy to get frustrated and give up.
+YNAB works because it runs counter to traditional, strict budgeting methods. With conventional bugeting, you're told to set dollar amounts for everything you expect to spend money on, and never to go over those amounts. But that kind of budgeting has a common result: you routinely blow through a budget category (or your entire budget), then chalk it up as a failure. And after a couple of months like that, it's easy to get frustrated and give up.
 
 YNAB doesn't do that. It actually encourages the exact opposite. It recognizes that you're _likely_ to blow a budget category month to month. As Jesse, the founder of YNAB says:
 
 > My wife and I have been married almost ten years, and we have operated using the YNAB Rules of Cash Flow the entire time. We have never, ever stayed within budget for every spending category. 
 
-The key, instead, is to roll with the punches. If you go over in one category in a given month, that's ok - just make sure to adjust accordingly. Maybe that means next month spending less in that category. Maybe it means reducing your overall spending next month. Or, do what I do - I move money out of another category that has a surplus, and zero out the category I've overspent on. I'm Even Steven going into the next month.
+The key, instead, is to roll with the punches. If you go over in one category in a given month, that's OK - just make sure to adjust accordingly. Maybe that means next month spending less in that category. Maybe it means reducing your overall spending next month. Or, do what I do - I move money out of another category that has a surplus, and zero out the category I've overspent on. I'm Even Steven going into the next month.
 
-How ever you choose to manage it, flexibility and recognition are the important strategies to remember. By allowing and encouraging adjustments, YNAB helps you see your spending habits develop. You can really monitor and consider how you use your hard earned cash.
+How ever you choose to manage it, flexibility and recognition are the important strategies to remember. By allowing and encouraging adjustments, YNAB helps you see your spending habits develop. You can really monitor and consider where your hard earned cash goes.
 
 And of course, YNAB's excellent software helps you along the way. Moving money between categories is easy. Entering new transactions is simple, either on a smartphone or computer. And it identifies where you need to make adjustments - either in a category, or for the month.
 
