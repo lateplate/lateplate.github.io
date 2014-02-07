@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YNAB - How I've Finally Figured Out Budgeting 
+title: I Finally Figured Out Budgeting 
 ---
 At the ripe age of 36 - a modest 18 years after starting to do my own finances - I think I've finally figured how to budget my money properly.
 
