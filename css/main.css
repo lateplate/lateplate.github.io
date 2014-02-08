@@ -120,7 +120,7 @@ blockquote {
 }
 
 .post {
-  font-size: .95em;
+  font-size: 1em;
   line-height: 1.5em;
 }
 
@@ -152,7 +152,6 @@ blockquote {
   border: none;
 }
 
-/* terminal */
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;

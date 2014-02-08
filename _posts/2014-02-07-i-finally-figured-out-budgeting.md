@@ -4,7 +4,7 @@ title: I Finally Figured Out Budgeting
 ---
 At the ripe age of 36 - a modest 18 years after starting to do my own finances - I think I've finally figured how to budget my money properly.
 
-It's not that I've ever been in a bad financial situation. I've always has positive cash flow, reasonable debt, and a decent retirement account. So it'd be easy to say that my budgeting systems must've been working. 
+It's not that I've ever been in a bad financial situation. I've always had positive cash flow, reasonable debt, and a decent retirement account. So it'd be easy to say that my budgeting systems must've been working. 
 
 But I never felt like I really understood budgeting that well. I knew what I did was working OK, but my system felt wishy-washy, even unstable. And with two kids, you don't want things to be unstable!
 
