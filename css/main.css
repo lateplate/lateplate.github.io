@@ -121,7 +121,7 @@ blockquote {
 
 .post {
   font-size: 1em;
-  line-height: 1.5em;
+  line-height: 1.25em;
 }
 
 .post li {
@@ -172,11 +172,11 @@ blockquote {
 @media all and (min-width: 670px) {
   .site {
     width: 670px;
-    font-size: 1.1em;
+    font-size: 1.15em;
   }
 
   .post {
-    line-height: 1.75em;
+    line-height: 1.5em;
   }
 
   .post p {
