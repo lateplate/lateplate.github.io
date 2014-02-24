@@ -20,8 +20,8 @@ So far I'm happy with the changes. Here are a few things I was able to do.
 
 ### Improve The UI
 
-- [Cleaner status bar and better spacing](http://cloud.dankim.org/NKhT) - no battery icon, carrier name, am/pm or app names. Smaller icons, smaller toolbars, and five dock icons.
-- [A much better app switcher](http://cloud.dankim.org/NMVM).
+- [Cleaner status bar and better spacing](http://i.imgur.com/IDEuj0J.png) - no battery icon, carrier name, am/pm or app names. Smaller icons, smaller toolbars, and five dock icons.
+- [A much better app switcher](http://i.imgur.com/9XVxXLU.png).
 
 ### Smart Shortcuts
 
