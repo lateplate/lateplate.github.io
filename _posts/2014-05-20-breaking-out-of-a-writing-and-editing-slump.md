@@ -2,7 +2,7 @@
 layout: post
 title: Breaking Out Of A Writing And Editing Slump
 ---
-The [dreaded slump](http://en.wikipedia.org/wiki/Slump_(sports))is a common refrain in baseball. But it can really happen in anything. And right now, I feel like I'm in a writing/editing slump (or the slightly less serious "funk").
+The [dreaded slump](http://en.wikipedia.org/wiki/Slump_(sports) is a common refrain in baseball. But it can really happen in anything. And right now, I feel like I'm in a writing/editing slump (or the slightly less serious "funk").
 
 Like in baseball, ups and downs in writing or creativity are common. It's a long season, as they say. So you have to weather some of the higher highs and the lower lows.
 
