@@ -10,11 +10,11 @@ But I learned a trick early on that's been immensely valuable: *everything exist
 
 That "snowball effect" is really, really powerful. With that in mind, I was able to declutter my life much faster than I expected.
 
-### A real world example: Cutting the cord
+### A real world example: Getting rid of cable TV
 
-A while back I cut the cord with cable. When I made the decision, I didn't realize how quickly it was going to snowball.
+A while back I cut the cord with cable TV. When I made the decision, I didn't realize how quickly it was going to snowball.
 
-Cutting the cord meant that I didn't need all the terrible equipment to support it. Right away I got to remove a few cable boxes and all the junk that went with them (power cords, wires, and remotes) from our home. The decision was already snowballing and paying off.
+Cutting the cord meant that I didn't need all the terrible Comcast equipment to support it. Right away I got to remove a few cable boxes and all the junk that went with them (power cords, wires, and remotes) from our home. The decision was already snowballing and paying off.
 
 But I didn't plan to give up TV completely. I still really enjoy a good movie or TV show, so I was going to use an Apple TV for that. But a few months later, I realized I wasn't using that much either - cutting cable actually made me more aware of my habits and preferences. So I sold the Apple TV (and its wires and remote), and was down to a TV and a home theater sound system.
 
