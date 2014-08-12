@@ -18,7 +18,7 @@ Cutting the cord meant that I didn't need all the terrible Comcast equipment to 
 
 But I didn't plan to give up TV completely. I still really enjoy a good movie or TV show, so I was going to use an Apple TV for that. But a few months later, I realized I wasn't using that much either - cutting cable actually made me more aware of my habits and preferences. So I sold the Apple TV (and its wires and remote), and was down to a TV and a home theater sound system.
 
-Of course it doesn't make sense to have a home theater system if you don't watch much TV. So without cable or Apple TV, I jettisoned the receiver, all my speakers, [a nasty rat's nest audio/video cables](https://www.google.com/search?q=rat%27s+nest+home+theater&espv=2&source=lnms&tbm=isch&sa=X&ei=xAfpU5CTJ5OjyQSvlIGQBw&ved=0CAcQ_AUoAg&biw=1280&bih=1319), remotes, manuals, tools, batteries, and countless other supporting accessories.
+Of course it doesn't make sense to have a home theater system if you don't watch much TV. So without cable or Apple TV, I jettisoned the receiver, all my speakers, [a nasty rat's nest of audio/video cables](https://www.google.com/search?q=rat%27s+nest+home+theater&espv=2&source=lnms&tbm=isch&sa=X&ei=xAfpU5CTJ5OjyQSvlIGQBw&ved=0CAcQ_AUoAg&biw=1280&bih=1319), remotes, manuals, tools, batteries, and countless other supporting accessories.
 
 And then went the TV!
 
@@ -30,7 +30,7 @@ A simple decision to cut cable put hundreds of dollars of rarely-used electronic
 
 I freed up a huge chunk of space in our house, which gave our boys a lot more safe space to play. 
 
-I no longer had to expend a single brain cycle worrying about cleaning or maintaining those items, or even catching up on TV shows. With less to do, I could focus on  more writing, reading, and programming.
+I no longer had to expend a single brain cycle worrying about cleaning or maintaining those items, or even catching up on TV shows. With less distractions, I could focus on more writing, reading, programming, and cooking.
 
 I saved *at least* $500 a year on cable service and electricity, which I [reallocated in our budget](http://dankim.org/2014/02/07/i-finally-figured-out-budgeting.html) toward things like family vacations.
 
