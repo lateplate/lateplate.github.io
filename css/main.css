@@ -70,6 +70,10 @@ p img {
   max-width: 350px;
 }
 
+.big {
+  font-size: 2em;
+}
+
 .site {
   margin: 0 auto;
   padding: 0 20px;
@@ -170,7 +174,7 @@ p img {
 
 @media all and (min-width: 410px) {
   .footer .contact {
-    float: left;
+    /*float: left;*/
     margin-right: 3em;
   }
 
