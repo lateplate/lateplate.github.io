@@ -1,5 +1,5 @@
 name: dankim.org
 description: dankim.org
 url: http://dankim.org
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
