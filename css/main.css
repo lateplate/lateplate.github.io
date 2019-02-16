@@ -5,30 +5,30 @@
 
 body {
   background-color: #FFF;
-  font-family: 'Muli', sans-serif;
-  font-size: 1em;
+  font-family: Helvetica, sans-serif;
+  font-size: .88em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Slab', Georgia, Palatino, serif;
+  font-family: "Courier", serif;
+  color: #000;
+}
+
+h1 {
+  font-size: 2.0em;
+  margin: 20px 0;
 }
 
 h2, h3 {
   margin: 20px 0;
-  color: #484848;
-}
-
-h1 {
-  font-size: 1.5em;
-  margin: 20px 0;
 }
 
 h2 {
-  font-size: 1.4em;
+  font-size: 1.5em;
 }
 
 h3 {
-  font-size: 1.15em;
+  font-size: 1.4em;
 }
 
 a {
@@ -40,13 +40,13 @@ a:visited {
 }
 
 a:hover {
-  color: #000;
+  color: #a00;
 }
 
 blockquote {
   padding: 0 25px;
   color: gray;
-  font-family: 'Roboto Slab', Georgia, Palatino, serif;
+  font-family: "Courier", serif;
 }
 
 .posts {
@@ -60,7 +60,7 @@ blockquote {
 
 .posts span {
   color: #aaa;
-  font-family: "Source Code Pro", Monaco, "Courier New", monospace;
+  font-family: Monaco, "Courier", monospace;
   font-size: .9em;
 }
 

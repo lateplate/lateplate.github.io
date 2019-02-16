@@ -6,7 +6,7 @@ This has to be the most boring product review ever written, in the most boring p
 
 <br>
 
-<img src="http://i.imgur.com/9JMUorw.jpg">
+<img src="/assets/kettle.jpg">
 
 _The Braun WK200 doesn't need a 12 page review because it's one of the simplest, most perfectly designed products I own. It does exactly one thing well - it boils water incredibly fast._
 
