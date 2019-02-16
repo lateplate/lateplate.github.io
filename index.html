@@ -19,7 +19,7 @@ title: dankim.org
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-		<a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>{{ post.date | date_to_string }}</span>
+		<a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | {{ page.date |  date: "%Y-%m-%d" }}]</span>
 	</li>
     {% endfor %}
   </ul>
