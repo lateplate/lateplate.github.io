@@ -3,8 +3,6 @@ layout: post
 title: To The Android Open Source Community — Thank you!
 ---
 
-<img src="/assets/camper-oss-thanks.jpg"/>
-
 While developing the Basecamp 3 Android app over the past year, we’ve leaned quite a bit on some really useful open source libraries.
 
 These libraries did a bunch of heavy lifting for us. They helped shorten our development time, increase programmer happiness (since we didn’t have to write them from scratch!) and ultimately ship a better product.

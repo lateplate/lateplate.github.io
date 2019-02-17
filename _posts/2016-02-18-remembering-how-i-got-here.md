@@ -3,8 +3,6 @@ layout: post
 title: Remembering How I Got Here (With A Lot of Help From Others)
 ---
 
-<img src="/assets/camper-thanks.jpg"/>
-
 About a month back, Basecamp put out a call for internship candidates. We’re looking for great people who want to learn about programming, product design, operations, data, or marketing directly from the people who work on Basecamp every day.
 
 But before we went public with it, any interested team had to internally pitch a meaningful project and commit to investing the proper time and energy into teaching, guiding, and helping our interns regularly.

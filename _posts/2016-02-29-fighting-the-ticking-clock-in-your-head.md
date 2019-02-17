@@ -3,8 +3,6 @@ layout: post
 title: Fighting The Ticking Clock In Your Head
 ---
 
-<img src="/assets/fighting-clock.jpg"/>
-
 I have this weird character flaw  —  I have a clock in my head that’s always ticking. It’s a mechanism I’ve built up over the years because I hate wasting time.
 
 In some ways this internal ticking clock is a really handy tool to have. It gives me a healthy respect for time, which means I’m rarely late, I’m generally pretty productive, and ship work in a timely manner.
