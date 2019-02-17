@@ -2,4 +2,4 @@ name: dankim.org
 description: dankim.org
 url: http://dankim.org
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
