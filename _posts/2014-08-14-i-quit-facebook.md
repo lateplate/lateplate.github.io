@@ -27,8 +27,6 @@ I decided to try and stir things up a bit. To a group of my real friends, I wrot
 
 (A little backstory: before Facebook existed, I ran discussion forum software on my personal domain. The references to dankim.org/forums in the letter are to that forum software we used for a couple of years).
 
----
-
 > Hey friends,
 
 > You may have noticed I deactivated my Facebook account. But most likely you didn't, because Facebook is a shitstorm of noise.
@@ -50,7 +48,5 @@ I decided to try and stir things up a bit. To a group of my real friends, I wrot
 > And maybe last, but certainly not least - Facebook is horrible for long form writing like this. There is no chance I could write anything like this on Facebook. 
 
 > Writing on Facebook is painful. If you write more than a paragraph, it gets truncated so people can move onto the next story. Comments are trimmed and hidden so you can't read what your friends wrote. Nowhere else in life are conversations built  with "likes". It's fucked up.
-
-***
 
 I've now been away from Facebook for a couple of weeks, and I don't miss it *at all*. And I'm not just saying that to prove a point or to rationalize the choice I made - I genuinely feel better, every day. 
