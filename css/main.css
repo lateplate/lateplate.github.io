@@ -43,10 +43,21 @@ a:hover {
   color: #a00;
 }
 
+img {
+   padding:10px;
+   border:1px solid #616e82;
+}
+
 blockquote {
   padding: 0 25px;
   color: gray;
   font-family: "Courier", serif;
+}
+
+hr {
+  border-top: 3px double #8c8b8b;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .posts {
@@ -59,9 +70,9 @@ blockquote {
 }
 
 .posts span {
-  color: #aaa;
+  color: #616e82;
   font-family: Monaco, "Courier", monospace;
-  font-size: .9em;
+  font-size: .8em;
 }
 
 p img {
@@ -83,6 +94,10 @@ p img {
 .header a {
   font-weight: bold;
   text-decoration: none;
+}
+
+.subtitle {
+  font-style: italic;
 }
 
 .title {
@@ -107,7 +122,8 @@ p img {
 }
 
 .meta {
-  color: #aaa;
+  font-size: .8em;
+  color: #616e82;
 }
 
 .footer {

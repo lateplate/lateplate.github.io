@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Why I don’t worry about our app’s negative reviews
+subtitle: Our happiest customers are most likely our quietest customers
 ---
-
-*Our happiest customers are most likely our quietest customers*
 
 Like any app developer, the Android team at Basecamp cares about our app’s reviews. We look at them regularly because they can be a valuable source of feedback and a way for us to talk to our customers.
 

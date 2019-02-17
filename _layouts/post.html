@@ -2,8 +2,11 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+{% if page.subtitle != null %}
+<p class="subtitle">{{ page.subtitle }}</p><br />
+{% endif %}
 <p class="meta">{{ page.date | date: "%Y-%m-%d" }}</p>
-
+<hr />
 <div class="post">
-{{ content }}
+    {{ content }}
 </div>
