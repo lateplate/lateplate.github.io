@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To The Android Open Source Community — Thank you!
+title: To the Android open source community—Thank you!
 ---
 
 While developing the Basecamp 3 Android app over the past year, we’ve leaned quite a bit on some really useful open source libraries.

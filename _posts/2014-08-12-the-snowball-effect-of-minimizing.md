@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Snowball Effect of Minimizing
+title: The snowball effect of minimizing
 ---
 Over the last year or so, I've been able to minimize my physical clutter down to a level I'm pretty happy with (mental clutter is a topic for another time).
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Keeping Me Away From Windows Phone
+title: What's keeping me away from Windows Phone
 ---
 I really like Windows Phone. In fact, I'd like to jump ship to it. 
 

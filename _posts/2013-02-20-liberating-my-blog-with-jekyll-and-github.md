@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liberating My Blog With Jekyll and Github
+title: Liberating my blog with Jekyll and Github
 ---
 I must switch blogging platforms at least once a year. 
 

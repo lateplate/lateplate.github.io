@@ -1,7 +1,8 @@
 ---
 layout: post
-title: How People Learn
+title: How people learn
 ---
+
 The Spring 2013 quarter at [The Starter League](http://starterleague.com) has begun, and we're excited to get started!
 
 Part of that excitement is the chance to make every quarter successively better. Everyone on The Starter League team takes teaching and learning seriously. We're always looking to improve so that we can build the best learning experience for our students.

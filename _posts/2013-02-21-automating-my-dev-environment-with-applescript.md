@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating My Dev Environment With AppleScript
+title: Automating my dev environment with AppleScript
 ---
 The [Starter League](http://starterleague.com) Winter 2013 quarter is in high gear, so I've been working on a number of projects simultaneously.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Being A Boss And Doing What's Right
+title: Being a boss and doing what's right
 ---
+
 Being a boss at a company is hard. Often there are constraints beyond your control that make it hard to keep people happy.
 
 So when my wife and I hired a nanny last April, for the first time I could be a boss without those typical constraints.

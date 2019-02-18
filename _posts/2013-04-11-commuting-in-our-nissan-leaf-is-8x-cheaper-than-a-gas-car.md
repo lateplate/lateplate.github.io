@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commuting In Our Nissan Leaf Is 8x Cheaper Than A Gas Car
+title: Commuting in our Nissan Leaf is 8x cheaper than a gas car
 ---
 
 You read that right. Let's do some math to prove it.

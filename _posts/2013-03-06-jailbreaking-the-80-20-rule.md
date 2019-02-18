@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreaking The 80/20 Rule
+title: Jailbreaking the 80/20 rule
 ---
 Apple's iOS is great but not perfect. This is partly because Apple lives by the 80/20 rule. This usually means prioritizing simplicity and elegance above all.
 

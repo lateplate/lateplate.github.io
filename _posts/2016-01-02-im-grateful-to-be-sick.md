@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm Grateful To Be Sick
+title: I'm grateful to be sick
 ---
 
 Right now I’m sitting in a immediate care facility — one of those places you go when you’re sick and you can’t quite wait for your normal doctor.

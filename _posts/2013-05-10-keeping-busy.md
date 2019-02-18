@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping Busy
+title: Keeping busy
 ---
 
 For the last few months I've been willfully unemployed. 

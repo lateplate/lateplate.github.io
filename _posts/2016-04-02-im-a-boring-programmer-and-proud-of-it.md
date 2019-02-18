@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm A Boring Programmer (And Proud Of It)
+title: I'm a boring programmer (and proud of it)
 ---
 
 I have a confession to make — I’m not a rock star programmer. Nor am I a hacker. I don’t know ninjutsu. Nobody has ever called me a wizard.

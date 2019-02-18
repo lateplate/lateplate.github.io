@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being A Parent Is Hard. Being An Introverted Parent Is Really Hard.
+title: Being a parent is hard. Being an introverted parent is really hard.
 ---
 As an introvert myself, I've often wondered if it's harder for an introvert to be a parent compared to an extrovert.
 

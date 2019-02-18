@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why People Dislike Comcast
+title: Why people dislike comcast
 ---
 While I was on hold for 90 minutes yesterday with Comcast, I had time to muse on why people dislike Comcast so much.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Change and Happiness
+title: Change and happiness
 ---
 Today I had some time to reflect on the changes I made in the past two months. I came to a simple conclusion: Life isn't just good. It's great.
 

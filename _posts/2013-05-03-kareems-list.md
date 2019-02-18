@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kareem's List
+title: Kareem's list
 ---
 1. Be more outgoing.
 1. Ask about family history.

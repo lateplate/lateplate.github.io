@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Airplane Mode As Parenting Mode
+title: Airplane mode as parenting mode
 ---
 
 Yesterday I read ["Don’t Text While Parenting — It Will Make You Cranky"](http://time.com/14953/parents-who-use-smartphones-in-front-of-their-kids-are-crankier/), and it really got me thinking. It basically said that while you're around your kids and looking at your phone, you're going to be a terrible parent. And sadly, I can 100% relate to that.

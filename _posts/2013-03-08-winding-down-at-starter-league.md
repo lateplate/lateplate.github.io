@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winding Down At Starter League
+title: Winding down at Starter League
 ---
 With only two weeks left, my time at [The Starter League](http://starterleague.com) is winding down. It's been an immensely rewarding experience, and I'm already getting nostalgic.
 

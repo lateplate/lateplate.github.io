@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vegan Girl Scout Cookies?
+title: Vegan Girl Scout cookies?
 tags: veg
 ---
 Yes, they do exist. Kudos to [ABC Bakers](http://www.abcsmartcookies.com/america’s-best-cookies) for making a few of their cookies vegan. From their FAQ:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ten Rules For Staying Secure
+title: Ten rules for staying secure
 ---
 One thing I've paid a lot more attention to lately is my online security. It seems like every week a site is hacked, and our data ends up in some bad guys' hands. Take your pick: [Adobe](http://www.theverge.com/2013/11/7/5078560/over-150-million-breached-records-from-adobe-hack-surface-online), [Zappos](http://www.theverge.com/2012/1/16/2710437/zappos-6pm-hacked), and most recently [Kickstarter](http://www.theverge.com/2014/2/15/5414970/kickstarter-hacked-with-data-stolen-for-an-unknown-number-of-customers) to name a few.
 

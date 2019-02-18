@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Quit Facebook
+title: I quit Facebook
 ---
 Recently there have been a lot of people out there quitting Facebook, myself included. Some are upset by the [experiments that Facebook ran](http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html) to see how users would react to changes in stories they were fed. Others, like me, are simply realizing how much pent up frustration Facebook is causing. 
 

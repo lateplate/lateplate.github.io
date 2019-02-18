@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing Software Is Easy
+title: Writing software is easy
 subtitle: If you think building a software product is tough, try building a legendary car from scratch.
 ---
 

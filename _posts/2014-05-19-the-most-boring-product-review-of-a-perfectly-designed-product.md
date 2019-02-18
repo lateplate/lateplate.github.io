@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Most Boring Product Review Of A Perfectly Designed Product
+title: The most boring product review of a perfectly designed product
 ---
 This has to be the most boring product review ever written, in the most boring product category. It's a review of my 7 year old [Braun WK200 Electric Kettle](http://www.amazon.com/gp/product/B00004S9H7/ref=oh_d__o00_details_o00__i01?ie=UTF8&psc=1) that's helped me make thousands of cups of coffee and tea.
 

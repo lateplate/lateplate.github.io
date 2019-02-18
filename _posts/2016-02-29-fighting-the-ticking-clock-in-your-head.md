@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fighting The Ticking Clock In Your Head
+title: Fighting the ticking clock in your head
 ---
 
 I have this weird character flaw  —  I have a clock in my head that’s always ticking. It’s a mechanism I’ve built up over the years because I hate wasting time.
