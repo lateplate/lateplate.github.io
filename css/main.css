@@ -148,6 +148,7 @@ p img {
 .post {
     font-size: 1em;
     line-height: 1.35em;
+    overflow-wrap: break-word;
 }
 
 .post li {
