@@ -2,6 +2,7 @@
 layout: post
 title: How I fell in love with a programming language
 subtitle: After a month with Kotlin, I finally understand what the hell DHH has been saying about Ruby all these years!
+star: true
 ---
 
 If you know only one thing about DHH, it’s that [he adores the Ruby programming language](https://rubyonrails.org/doctrine/#optimize-for-programmer-happiness). He doesn’t just like it. He genuinely loves it. There’s zero debate about this.

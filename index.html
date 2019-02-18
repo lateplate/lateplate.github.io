@@ -9,6 +9,9 @@ title: dankim.org
     <ul class="posts">
         {% for post in site.posts %}
         <li>
+            {% if post.star == true %}
+            🌟
+            {% endif %}
             <a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | date: "%Y-%m-%d" }}]</span>
         </li>
         {% endfor %}

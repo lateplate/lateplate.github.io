@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I finally figured out budgeting
+star: true
 ---
 At the ripe age of 36 - a modest 18 years after starting to do my own finances - I think I've finally figured how to budget my money properly.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Programming languages aren’t a zero sum game
+star: true
 ---
 
 Stop me if you’ve heard these before when people get to talking about programming languages…
