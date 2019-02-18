@@ -36,8 +36,6 @@ Below is an overly complex, hard to read [project announcement](https://groups.g
 
 > The project will start by investigating how Firefox handles PDF rendering followed by looking into lower cost approaches to providing Flash support as it’s usage continues to decrease. Project Mortar is currently investigating using the minimum set of Pepper APIs needed to support the PDFium library and the Pepper Flash plugin. If successful, this work will allow us to completely remove NPAPI support from Firefox once NPAPI is disabled for general plugin use.
 
-> Keep an eye on https://wiki.mozilla.org/Mortar_Project for status and future updates for this project.
-
 Here are the main problems with this announcement:
 
 * Its super long sentences are hard to parse and understand.
