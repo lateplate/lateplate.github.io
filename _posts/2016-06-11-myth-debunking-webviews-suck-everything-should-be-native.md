@@ -80,7 +80,8 @@ It doesn’t give you carte blanche to make ridiculously heavy webviews, but it 
 To take advantage of our Turbolinks enabled webviews in Basecamp 3, we built and open-sourced Turbolinks Android, a library that makes working with Turbolinks trivial. Just add one dependency, then tell the library to load your page:
 
 ```
-protected void onCreate(Bundle savedInstanceState) {
+protected void onCreate
+  (Bundle savedInstanceState) {
   ...
   TurbolinksSession.getDefault(this)
     .activity(this)
