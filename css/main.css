@@ -172,7 +172,7 @@ p img {
 
 .post ul,
 .post ol {
-    margin-left: 2em;
+    margin-left: 1em;
 }
 
 .post code {
@@ -217,7 +217,7 @@ p img {
     }
 
     .post {
-        line-height: 1.5em;
+        line-height: 1.6em;
     }
 
     .post p {
