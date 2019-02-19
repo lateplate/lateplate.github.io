@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A shining example of how to teach
+star: true
 ---
 
 I was recently fumbling my way through a programming problem. I couldn’t figure out the root issue, so I cobbled together a shaky solution and posted my ¯\_(ツ)_/¯ on Basecamp.

@@ -2,6 +2,7 @@
 layout: post
 title: “Eat, sleep, code, repeat” is such bullshit
 subtitle: Despite the hype, programming is not an all or nothing endeavor
+star: true
 ---
 
 I’m on my way back home from Google I/O 2016. It was a fantastic conference — I met some great people and learned a lot.

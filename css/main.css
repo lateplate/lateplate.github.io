@@ -147,7 +147,7 @@ p img {
 
 .post {
     font-size: 1em;
-    line-height: 1.35em;
+    line-height: 1.7em;
     overflow-wrap: break-word;
 }
 
@@ -215,10 +215,6 @@ p img {
     .site {
         width: 670px;
         font-size: 1.15em;
-    }
-
-    .post {
-        line-height: 1.6em;
     }
 
     .post p {
