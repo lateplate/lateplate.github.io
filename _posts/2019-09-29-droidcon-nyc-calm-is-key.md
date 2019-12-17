@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calm is key — A guide to a happier, more productive workplace 
+title: Calm is key — A guide to a happier, more productive workplace
 subtitle: Droidcon NYC 2019 Video & Slides
 star: true
 ---
@@ -16,7 +16,9 @@ By the end of the talk, I hope you'll have some new ideas and inspiration to wor
 
 ### Video:
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/362739078" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe title="vimeo-player" src="https://player.vimeo.com/video/362739078" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Slides:
 
