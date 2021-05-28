@@ -1,12 +1,12 @@
 ---
 layout: post
 title: It's My Birthday and I Could Use Your Help
-star: true
+type: default
 ---
 
 I turn 43 today. I'm humbled and lucky that I have everything I could possibly need or want.
 
-But many others are hurting, struggling. I'm hopeful that we can start to turn the ship around if we support the right causes. 
+But many others are hurting, struggling. I'm hopeful that we can start to turn the ship around if we support the right causes.
 
 So I could really use your help right now.
 
@@ -17,7 +17,7 @@ I've tried to provide a variety of things I care about, with the most important 
 Thanks in advance for all the birthday wishes and contributions. Y'all are wonderful people and I look forward to REALLY celebrating in three weeks. 🙏
 
 Links below.
- 
+
 ## 🇺🇸✅ The 2020 Election
 * [Biden / Harris](https://secure.actblue.com/donate/biden2020) — Need I say more?
 * [Swing The Senate](https://secure.actblue.com/donate/swing-us-senate-left) — Contributes to 8 tightly contested races where we have a chance to push McConnel and company out of power.
@@ -31,7 +31,7 @@ Links below.
 
 ## 👧👦 Our Little Ones
 * [Lurie's Children's Hopsital](https://secure3.convio.net/cmf/site/SPageServer?pagename=donate_main&nav=0) — One of our boys had to go to Lurie's for emergency surgery when he was just one month old. I'll never forget what these folks did for us in caring for our son.
-* [St. Jude's](https://www.stjude.org/donate/donate-to-st-jude.html?sc_icid=header-btn-donate-now) — Their work in pediatric cancer and diseases is tremendously important. 
+* [St. Jude's](https://www.stjude.org/donate/donate-to-st-jude.html?sc_icid=header-btn-donate-now) — Their work in pediatric cancer and diseases is tremendously important.
 
 ## 🐶🐱 Furry Friends
 * [Chicagoland Bully Breed Rescue](http://www.cbbr.org/contacts.html) — This is where we adopted Eugene from! They work to specifically rescue bully breeds and to help turn the inaccurate, completely false narrative that the breed is dangerous or difficult.

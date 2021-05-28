@@ -1,11 +1,11 @@
 ---
 layout: post
 title: I finally figured out budgeting
-star: true
+type: star
 ---
 At the ripe age of 36 - a modest 18 years after starting to do my own finances - I think I've finally figured how to budget my money properly.
 
-It's not that I've ever been in a bad financial situation. I've always had positive cash flow, reasonable debt, and a decent retirement account. So it'd be easy to say that my budgeting systems must've been working. 
+It's not that I've ever been in a bad financial situation. I've always had positive cash flow, reasonable debt, and a decent retirement account. So it'd be easy to say that my budgeting systems must've been working.
 
 But I never felt like I really understood budgeting that well. I knew what I did was working OK, but my system felt wishy-washy, even unstable. And with two kids, you don't want things to be unstable!
 
@@ -17,7 +17,7 @@ YNAB works because it runs counter to traditional, strict budgeting methods. Wit
 
 YNAB doesn't do that. It actually encourages the exact opposite. It recognizes that you're _likely_ to blow a budget category month to month. As Jesse, the founder of YNAB says:
 
-> My wife and I have been married almost ten years, and we have operated using the YNAB Rules of Cash Flow the entire time. We have never, ever stayed within budget for every spending category. 
+> My wife and I have been married almost ten years, and we have operated using the YNAB Rules of Cash Flow the entire time. We have never, ever stayed within budget for every spending category.
 
 The key, instead, is to roll with the punches. If you go over in one category in a given month, that's OK - just make sure to adjust accordingly. Maybe that means next month spending less in that category. Maybe it means reducing your overall spending next month. Or, do what I do - I move money out of another category that has a surplus, and zero out the category I've overspent on. I'm Even Steven going into the next month.
 
@@ -28,4 +28,3 @@ And of course, YNAB's excellent software helps you along the way. Moving money b
 YNAB is very focused on cash flow, and I think that's why it works so well for me. By keeping an eye on my cash flow and assigning every dollar a job, there's no guesswork. Long term stuff like savings, vacations, and college funds take care of themselves because cash has been assigned to them. And in conjunction with something like [Mint](https://www.mint.com/), I can watch my YNAB cash convert into long term investments as well.
 
 YNAB is really, really fantastic. I finally feel like I have true clarity on my spending. No matter what your budget size or financial status, implementating YNAB could really make a huge difference in your life.
-

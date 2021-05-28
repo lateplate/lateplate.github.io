@@ -2,7 +2,7 @@
 layout: post
 title: How I became (and stayed) a successful programmer
 subtitle: 3 strategies that have been crucial to the longevity of my programming career
-
+type: default
 ---
 
 For a while now, interest in programming has been skyrocketing. So there are a lot of beginners out there starting their careers — and that’s a wonderful thing!

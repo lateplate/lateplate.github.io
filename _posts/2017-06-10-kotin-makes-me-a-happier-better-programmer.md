@@ -2,6 +2,7 @@
 layout: post
 title: Kotlin makes me a happier (better) programmer
 subtitle: What’s Kotlin’s best feature? Creating programmer happiness.
+type: default
 ---
 
 There’s been a lot of action around Kotlin lately. So one question you’ll often hear is “What’s your favorite Kotlin feature?”

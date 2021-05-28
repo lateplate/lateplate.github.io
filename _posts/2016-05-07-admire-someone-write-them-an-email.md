@@ -2,6 +2,7 @@
 layout: post
 title: Admire someone? Write them an email, you might be surprised
 subtitle: How a simple email to Mike Monteiro led to a handshake and a hello.
+type: default
 ---
 
 A couple years ago I attended a conference in Austin. There were a lot of great speakers, but the one I really wanted to see was Mike Monteiro. I’ve admired Mike’s work from afar for many years because it’s so honest and direct.

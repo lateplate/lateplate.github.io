@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Kotlin long-term update—calm, peaceful, and productive
+type: default
 ---
 
 

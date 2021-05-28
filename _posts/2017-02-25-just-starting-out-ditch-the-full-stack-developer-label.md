@@ -2,6 +2,7 @@
 layout: post
 title: Just starting out? Ditch the “full stack developer” label
 subtitle: The words you use to represent yourself matter — and those words mean nothing.
+type: default
 ---
 
 The vagueness and confusion around the phrase “full stack developer” has been lingering for years. Google it and you’ll find plenty of discussion about why it’s such a loaded term.

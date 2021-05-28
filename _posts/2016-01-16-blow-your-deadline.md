@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blow your deadline, blow your budget, and chalk it up as a success
+type: default
 ---
 
 Blow your deadline, blow your budget, and chalk it up as a success!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some of my favorite Kotlin features (that we use a lot in Basecamp)
+type: default
 ---
 
 Team Android at Basecamp recently passed a fairly big milestone — over 25% of the Basecamp 3 Android app code base now runs on Kotlin! 🎉
@@ -98,7 +99,7 @@ By using the [Kotlin Android Extensions](https://kotlinlang.org/docs/tutorials/a
 EditText composer = findViewById(R.id.composer);
 composer.setText("Allo!");
 
-// Kotlin 
+// Kotlin
 view.composer.text = "Allo!"
 ```
 

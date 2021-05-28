@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Commuting in our Nissan Leaf is 8x cheaper than a gas car
+type: default
 ---
 
 You read that right. Let's do some math to prove it.
 
-Since electric and gas are measured in different units and capacities, I needed to calculate the cost to drive 1 mile for each. 
+Since electric and gas are measured in different units and capacities, I needed to calculate the cost to drive 1 mile for each.
 
 [My wife](https://twitter.com/juliekim2) drives a moderate 18 miles per day to and from work. This is normal. [Most people drive less than 40 miles per day](http://gm-volt.com/2007/12/06/how-did-gm-determine-that-78-of-commuters-drive-less-than-40-miles-per-day/).
 

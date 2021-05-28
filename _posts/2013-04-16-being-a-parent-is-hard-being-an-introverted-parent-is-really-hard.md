@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Being a parent is hard. Being an introverted parent is really hard.
+type: default
 ---
 As an introvert myself, I've often wondered if it's harder for an introvert to be a parent compared to an extrovert.
 
@@ -13,7 +14,7 @@ For introverts "being on" 100% of the time can be draining and challenging. This
 - We're in our own heads a lot. When we do get a quiet moment, we tend to think deeply, including about our kids.
 - We like to have time to plan and organize. The spontaneous nature of kids isn't a good match to that preference.
 
-This isn't to say that extroverts have it easier. They face the same parenting challenges we do. 
+This isn't to say that extroverts have it easier. They face the same parenting challenges we do.
 
 If anything it's a compliment -- extroverts deal with kids _better_ than introverts. They thrive in high energy situations. They don't need as much time to recharge. They are thoughtful but don't overanalyze. They're able to adjust better on-the-fly.
 

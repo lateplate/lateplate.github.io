@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Change and happiness
+type: default
 ---
 Today I had some time to reflect on the changes I made in the past two months. I came to a simple conclusion: Life isn't just good. It's great.
 
-The reason is astoundingly simple. I recognized a part of my life that made me unhappy and changed it. For me that was work. 
+The reason is astoundingly simple. I recognized a part of my life that made me unhappy and changed it. For me that was work.
 
 Work is a huge part of our lives. It consumes (at least) 40% of our non-sleeping hours a week. That's a lot of time to spend being unhappy.
 
@@ -19,5 +20,3 @@ I've also learned about the importance of writing, which is highly encouraged at
 Most importantly my life is in order. I'm happier so I'm healthier. I have an amazing, supportive wife. My twin boys are healthy, happy, and learning. I get to see them grow up every day -- more than I ever would have if I stayed in my old job.
 
 It may sound corny, but I realize now how important it is to be happy. And it only took me 35 years to figure that out.
- 
-

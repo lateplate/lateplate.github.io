@@ -8,13 +8,38 @@ title: dankim.org
 </p>
 <hr class="fancy"/>
 <div id="home">
+  <h2>Selected Musings</h2>
     <ul class="posts">
         {% for post in site.posts %}
         <li>
-            {% if post.star == true %}
-            🌟
-            {% endif %}
+            {% if post.type == "star" %}
             <a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | date: "%Y-%m-%d" }}]</span>
+            {% endif %}
+
+        </li>
+        {% endfor %}
+    </ul>
+
+    <hr class="fancy"/>
+    <h2>Conference Talks</h2>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li>
+            {% if post.type == "talk" %}
+            <a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | date: "%Y-%m-%d" }}]</span>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+
+    <hr class="fancy"/>
+    <h2>Other Writing</h2>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li>
+            {% if post.type == "default" %}
+            <a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | date: "%Y-%m-%d" }}]</span>
+            {% endif %}
         </li>
         {% endfor %}
     </ul>

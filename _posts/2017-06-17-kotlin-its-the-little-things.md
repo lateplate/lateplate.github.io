@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kotlin—It’s the little things
+type: default
 ---
 
 Kotlin has a bunch of amazing features, and certain ones tend to grab the headlines — things like [extension functions](https://kotlinlang.org/docs/reference/extensions.html#extension-functions), [higher order functions](https://kotlinlang.org/docs/reference/lambdas.html), and [null safety](https://kotlinlang.org/docs/reference/null-safety.html) among them. And rightfully so — those are all incredibly powerful, fundamental features of the language upon which everything else builds on.

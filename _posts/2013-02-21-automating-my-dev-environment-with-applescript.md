@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automating my dev environment with AppleScript
+type: default
 ---
 The [Starter League](http://starterleague.com) Winter 2013 quarter is in high gear, so I've been working on a number of projects simultaneously.
 
@@ -10,7 +11,7 @@ This requires a lot of context switching. Manually navigating around became a bi
 1. Opening a directory in iTerm
 1. Opening a localhost URL in Chrome
 
-I pieced together an AppleScript that does all of that for me. I simply set two paths in the script (file and URL), and the script does the rest. 
+I pieced together an AppleScript that does all of that for me. I simply set two paths in the script (file and URL), and the script does the rest.
 
 I've made multiple versions, one that opens up the right environment for each project. I never have to open those apps manually again.
 

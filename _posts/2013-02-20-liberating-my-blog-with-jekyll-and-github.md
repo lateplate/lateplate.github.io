@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Liberating my blog with Jekyll and Github
+type: default
 ---
-I must switch blogging platforms at least once a year. 
+I must switch blogging platforms at least once a year.
 
 I could never really put my finger on why. I suspect it was some combination of:
 
@@ -10,7 +11,7 @@ I could never really put my finger on why. I suspect it was some combination of:
 - They all have their own theme engines. Custom CSS is painful to write around their markup.
 - Composing in WYSIWYG editors is horrible. There are modules and toolbars everywhere. Auto-saving is poor. It's difficult to focus on writing.
 
-I decided to give [Jekyll](http://jekyllrb.com/) a try. Being part of [The Starter League](http://starterleague.com) for the past five weeks, I knew I had enough HTML/CSS and RubyGems skills to get it working. 
+I decided to give [Jekyll](http://jekyllrb.com/) a try. Being part of [The Starter League](http://starterleague.com) for the past five weeks, I knew I had enough HTML/CSS and RubyGems skills to get it working.
 
 Within a few hours, I was up and running. It's simple and liberating. Among the many reasons I love it:
 

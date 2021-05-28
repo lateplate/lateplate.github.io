@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We write code, not documents
-star: false
+type: default
 ---
 
 Recently a student asked me:

@@ -2,7 +2,7 @@
 layout: post
 title: Silicon Valley arrogance — “I can tell you which startups will succeed, without even knowing what they do”
 subtitle: According to Marissa Mayer, long hours and weekend work (in person) will lead to success
-star: true
+type: star
 ---
 
 Yesterday I read [this article about Marissa Mayer](https://www.bloomberg.com/features/2016-marissa-mayer-interview-issue/). This quote infuriated me (emphasis mine):

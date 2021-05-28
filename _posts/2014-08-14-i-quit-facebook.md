@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I quit Facebook
-star: true
+type: star
 ---
-Recently there have been a lot of people out there quitting Facebook, myself included. Some are upset by the [experiments that Facebook ran](http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html) to see how users would react to changes in stories they were fed. Others, like me, are simply realizing how much pent up frustration Facebook is causing. 
+Recently there have been a lot of people out there quitting Facebook, myself included. Some are upset by the [experiments that Facebook ran](http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html) to see how users would react to changes in stories they were fed. Others, like me, are simply realizing how much pent up frustration Facebook is causing.
 
 A few recent examples of people coming to their senses...
 
@@ -12,7 +12,7 @@ A few recent examples of people coming to their senses...
 * An experiment called [99 Days of Freedom](http://99daysoffreedom.com/) popped up to encourage people to get off Facebook for 99 days to see what happens.
 * Mat Honan ran an incredibly frightening experiment where he [liked everything on Facebook for two days](http://www.wired.com/2014/08/i-liked-everything-i-saw-on-facebook-for-two-days-heres-what-it-did-to-me/), and watched his wall turn into a giant advertisement, devoid of any human contact.
 
-That's just a few examples among many, many other people who've left but haven't written about it. 
+That's just a few examples among many, many other people who've left but haven't written about it.
 
 But the theme is the same throughout - there's growing discontent about how Facebook is using our information to advertise to us, and even experiment on us. And more importantly, it's becoming clear that [Facebook is just plain making us unhappy](http://www.newyorker.com/tech/elements/how-facebook-makes-us-unhappy).
 
@@ -46,8 +46,8 @@ I decided to try and stir things up a bit. To a group of my real friends, I wrot
 
 > By contrast, the forums were way more engaging and fun because they were safe. Nobody could get in without my permission. There was zero chance of an accidental photo tagging, or posting to your wall instead of the group. And because it was safe, we talked about whatever. We made fun of each other. We wondered how Gary came up with a new poll daily. Nobody read our shit, guaranteed, except the group of friends.
 
-> And maybe last, but certainly not least - Facebook is horrible for long form writing like this. There is no chance I could write anything like this on Facebook. 
+> And maybe last, but certainly not least - Facebook is horrible for long form writing like this. There is no chance I could write anything like this on Facebook.
 
 > Writing on Facebook is painful. If you write more than a paragraph, it gets truncated so people can move onto the next story. Comments are trimmed and hidden so you can't read what your friends wrote. Nowhere else in life are conversations built  with "likes". It's fucked up.
 
-I've now been away from Facebook for a couple of weeks, and I don't miss it *at all*. And I'm not just saying that to prove a point or to rationalize the choice I made - I genuinely feel better, every day. 
+I've now been away from Facebook for a couple of weeks, and I don't miss it *at all*. And I'm not just saying that to prove a point or to rationalize the choice I made - I genuinely feel better, every day.

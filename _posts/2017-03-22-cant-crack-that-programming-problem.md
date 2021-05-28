@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Can’t crack that programming problem? Go to sleep (or take a walk)
+type: default
 ---
 
 Think back to the last time you had that really tough programming problem you couldn’t crack.

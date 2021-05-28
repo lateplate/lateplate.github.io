@@ -2,7 +2,7 @@
 layout: post
 title: Calm is key — A guide to a happier, more productive workplace
 subtitle: Droidcon NYC 2019 Video & Slides
-star: true
+type: talk
 ---
 
 ### Summary:

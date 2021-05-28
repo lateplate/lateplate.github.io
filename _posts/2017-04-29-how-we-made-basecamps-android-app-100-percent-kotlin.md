@@ -2,7 +2,7 @@
 layout: post
 title: How we made Basecamp 3’s Android app 100% Kotlin
 subtitle: Our best advice based on a year of real-world shipping.
-star: true
+type: default
 ---
 
 We started our Kotlin journey a year ago based on two hunches: that it would 1) make a huge difference in programmer happiness and 2) wildly improve our work quality and speed.

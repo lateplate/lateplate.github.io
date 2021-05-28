@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How people learn
+type: default
 ---
 
 The Spring 2013 quarter at [The Starter League](http://starterleague.com) has begun, and we're excited to get started!
@@ -11,7 +12,7 @@ Recently I ran across a fascinating article about [how people learn](http://www.
 
 ### Teach less.
 
-Your capacity to learn in a given session is limited to just a few ideas. When more is covered, less is retained. 
+Your capacity to learn in a given session is limited to just a few ideas. When more is covered, less is retained.
 
 We think about this a lot. We have eleven weeks to build your core skills, get you coding, and sustain your confidence. We focus on teaching within your capacity so you can retain what's important.
 
@@ -27,11 +28,11 @@ Having been a student last quarter, I can attest to the value of building someth
 
 ### Connect and be present.
 
-Everyone has different backgrounds, so it's important that we make a connection with you. 
+Everyone has different backgrounds, so it's important that we make a connection with you.
 
 When we understand where you're coming from, we can help answer the questions that will help you learn -- why is this worth learning, and how is it applicable in the real world?
 
-The best thing you can do is be present. 
+The best thing you can do is be present.
 
 This doesn't mean you need to be the loudest voice in the room. Find what works for you. Pair up during class. Ask questions to your classmates or instructors. Participate during in-class exercises. Grab a beer and talk code. Come to office hours for one on one help. Do your homework. Code alone. Code often. Read ahead. Write about your experiences.
 

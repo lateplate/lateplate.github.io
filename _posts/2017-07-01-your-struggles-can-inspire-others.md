@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your struggles can inspire others
+type: star
 ---
 
 Think back to the the last time you struggled mightily with a programming problem. Did you share it with the world?

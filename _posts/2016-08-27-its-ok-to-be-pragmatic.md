@@ -1,6 +1,7 @@
 ---
 layout: post
 title: It’s OK to be pragmatic (with a little help from the “crazy ones”)
+type: default
 ---
 
 Being pragmatic is engrained in me. I’m at my best being practical and boring.

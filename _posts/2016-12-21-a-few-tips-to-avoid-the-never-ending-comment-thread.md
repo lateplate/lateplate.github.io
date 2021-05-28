@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A few tips to avoid the never ending comment thread
+type: default
 ---
 
 Asynchronous communications are a wonderful thing for productivity. But they do have a dark side: the all-too-common, never ending comment thread.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hate your job? Happier times are within your grasp
-star: true
+type: star
 ---
 
 As is common this time of year, I took some time to reflect on life and work. And a few different things reminded me of how incredibly fortunate and happy I am to be working at Basecamp.

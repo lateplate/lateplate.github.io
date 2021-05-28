@@ -2,6 +2,7 @@
 layout: post
 title: Rewriting bad writing
 subtitle: Become a better writer by taking a poorly written piece and rewriting it yourself
+type: default
 ---
 
 Once in a while I read something so complex and poorly written, when I’m finished I have no idea what I just read. It’s insanely frustrating.

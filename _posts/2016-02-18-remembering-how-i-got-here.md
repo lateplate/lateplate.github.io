@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remembering how I got here (with a lot of help from others)
+type: default
 ---
 
 About a month back, Basecamp put out a call for internship candidates. We’re looking for great people who want to learn about programming, product design, operations, data, or marketing directly from the people who work on Basecamp every day.

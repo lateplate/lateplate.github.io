@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Get to the point
-subtitle: TIt’s the single best way to improve your day-to-day writing.
+subtitle: It’s the single best way to improve your day-to-day writing.
+type: default
 ---
 
 If you want to consistently improve your everyday writing, there’s one really straightforward thing you can do…

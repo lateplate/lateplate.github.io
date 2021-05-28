@@ -2,7 +2,7 @@
 layout: post
 title: Ktor for Mobile Developers — Fear the server no more!
 subtitle: KotlinConf 2019 Video, Slides, & Code Sample
-star: true
+type: talk
 ---
 
 ### Summary:

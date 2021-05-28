@@ -2,6 +2,7 @@
 layout: post
 title: 5 steps to creating frustration-free Android test devices
 subtitle: How to setup devices so that manual testing doesn’t crush your soul
+type: default
 ---
 
 A few days ago, I picked up one of my test devices to try out some new code. I couldn’t believe how frustrating it was.

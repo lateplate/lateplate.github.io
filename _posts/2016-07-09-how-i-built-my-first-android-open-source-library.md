@@ -2,6 +2,7 @@
 layout: post
 title: How I built my first Android open source library (and how you can too)
 subtitle: A practical, step-by-step guide for building your own open source library.
+type: default
 ---
 
 In early 2015 I recognized a major hole in my professional work — I hadn’t made a single open source contribution. That’s pretty embarrassing to admit, considering I work with some major open source contributors on a daily basis.
@@ -128,10 +129,10 @@ In settings.gradle:
 include ':app'
 
 // name of the module
-include ':turbolinks' 
+include ':turbolinks'
 
 // location of the dir in your app’s build.gradle file:
-project(':turbolinks').projectDir = new File(settingsDir, '../turbolinks-android/turbolinks') 
+project(':turbolinks').projectDir = new File(settingsDir, '../turbolinks-android/turbolinks')
 
 dependencies {
     compile project(':turbolinks')

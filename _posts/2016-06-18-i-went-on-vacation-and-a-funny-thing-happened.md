@@ -2,6 +2,7 @@
 layout: post
 title: I went on vacation and a funny thing happened — I didn’t do any work
 subtitle: Many vacations are broken, filled with the stress of work. Help me bring back the work-free vacation.
+type: default
 ---
 
 My family and I just returned from a 12 day vacation to the San Diego area, where my brother, mom, and dad all live.

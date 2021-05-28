@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Life as an impatient programmer
+type: default
 ---
 
 Life as an impatient programmer

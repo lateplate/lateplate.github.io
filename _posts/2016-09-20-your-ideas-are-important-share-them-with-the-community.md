@@ -2,6 +2,7 @@
 layout: post
 title: Your ideas are important — share them with the community
 subtitle: Sharing your ideas helps you and others get better. Here’s how to get started.
+type: star
 ---
 
 At least once a week I say to myself, “That’s interesting. I should write something about it.”

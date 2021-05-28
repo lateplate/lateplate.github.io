@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ten rules for staying secure
+type: default
 ---
 One thing I've paid a lot more attention to lately is my online security. It seems like every week a site is hacked, and our data ends up in some bad guys' hands. Take your pick: [Adobe](http://www.theverge.com/2013/11/7/5078560/over-150-million-breached-records-from-adobe-hack-surface-online), [Zappos](http://www.theverge.com/2012/1/16/2710437/zappos-6pm-hacked), and most recently [Kickstarter](http://www.theverge.com/2014/2/15/5414970/kickstarter-hacked-with-data-stolen-for-an-unknown-number-of-customers) to name a few.
 
@@ -17,4 +18,4 @@ For my own peace of mind, I follow a few key rules keep my online presence as se
 1. Use an SSL/https connection as the default whenever possible, especially on a public wifi network (in that case, using a VPN connection is even better).
 1. Look out for friends and family. The more secure they are, the more secure you will be.
 
-In the end, there's no guarantee that doing any of this will prevent unauthorized access to your accounts - anything's possible. But security is about reducing risks, limiting exposure, and playing the odds. And these rules should help you move in that direction. 
+In the end, there's no guarantee that doing any of this will prevent unauthorized access to your accounts - anything's possible. But security is about reducing risks, limiting exposure, and playing the odds. And these rules should help you move in that direction.

@@ -2,6 +2,7 @@
 layout: post
 title: Hiring a programmer? Ditch the coding interview and get back to basics
 subtitle: 10 articles from the Basecamp archives focused on common sense hiring practices
+type: default
 ---
 
 This week was going great…until I saw yet another article coaching programmers on how to prepare for a coding interview. Imagine, the secrets to “winning” a coding interview and getting your dream job, all unlocked in one article! 🤔
@@ -34,7 +35,7 @@ Every one of them holds up today, and we still rely on these ideas ourselves. An
 
 As a business focused on the long-term, these ideas have paid off in spades for us. I hope you’ll consider these ideas, and join me in giving a big 🖕 to the coding interview trend!
 
-**[Stop whining and start hiring remote workers](https://signalvnoise.com/posts/3064-stop-whining-and-start-hiring-remote-workers).** 
+**[Stop whining and start hiring remote workers](https://signalvnoise.com/posts/3064-stop-whining-and-start-hiring-remote-workers).**
 > There’s so much untapped tech talent that does not live near your office, but would work for you if you allowed them to.
 
 **[The person they’ll become](https://m.signalvnoise.com/the-person-theyll-become/#.rdpde07kn)**

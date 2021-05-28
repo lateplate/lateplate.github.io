@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android developers and personal iPhones
-star: false
+type: default
 ---
 
 Over the past couple of years, I've seen a small but noticeable trend from Android developers I follow on Twitter — more and more are using iPhones as their personal devices, myself included.

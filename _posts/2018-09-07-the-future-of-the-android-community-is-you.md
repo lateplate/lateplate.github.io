@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The future of the Android community is YOU
-star: true
+type: talk
 ---
 
 If you’ve been paying attention to what’s been going on in our community — conferences, meetups, blog posts, podcasts, open source (the list goes on and on) — you’ve probably noticed a really wonderful energy and spirit behind them all. Yes, our community is healthy and thriving!

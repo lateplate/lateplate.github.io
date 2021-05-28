@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Bezos way—sleep, puttering, and three high-quality decisions a day
+type: default
 ---
 
 Jeff Bezos has always been one of those people whose ideas and thinking make a lot of sense to me. When he talks, I listen.

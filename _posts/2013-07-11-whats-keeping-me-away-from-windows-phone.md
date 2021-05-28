@@ -1,8 +1,9 @@
 ---
 layout: post
 title: What's keeping me away from Windows Phone
+type: default
 ---
-I really like Windows Phone. In fact, I'd like to jump ship to it. 
+I really like Windows Phone. In fact, I'd like to jump ship to it.
 
 I've admired it from a distance for at least a couple years. My friend Mark, who works for Microsoft, was an early adopter. I remember playing with his first phone a couple years ago in Seattle, and I was genuinely impressed.
 
@@ -23,6 +24,6 @@ So what are all the small things? (Remember, these are habits and fears - e.g., 
 - **OS Updates.** iOS is updated like clockwork. I can reliably expect something new every year, that works well on the last 2-3 generations of devices. I have no idea what Windows Phone OS update cycles are like. Last I heard, they dropped support for all old devices when they're latest OS came out.
 - **Apps.** I don't even use that many -- maybe 20 total everyday. But those are 20 best-in-class apps. Dropbox, 1Password, Instagram, Tweetbot, Google Maps, etc. Does Windows Phone have comparable apps of that quality? I don't know. And quality aside, some apps that I rely on everyday just don't exist - Basecamp, Fitbit, Withings, and ScannerPro to name a few.
 - **Integration with Mac.** I'm guaranteed everything between my iPhone and Mac will work. Windows Phone? I don't even know if I'll be able to pull videos off it reliably. Maybe?
-- **Bing for everything?** Microsoft touts in their commercials how people prefer Bing over Google by some wide margin. These are crazy people. 
+- **Bing for everything?** Microsoft touts in their commercials how people prefer Bing over Google by some wide margin. These are crazy people.
 
 So you can see, it's a pretty long list. And the thing is none of these are, by themselves, deal breakers. But the amount of effort it would take to overcome these is just too high for me. I am an old, lazy curmudgeon who will stick it out on iOS. I think.

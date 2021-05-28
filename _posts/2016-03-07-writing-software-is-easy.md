@@ -2,6 +2,7 @@
 layout: post
 title: Writing software is easy
 subtitle: If you think building a software product is tough, try building a legendary car from scratch.
+type: default
 ---
 
 I recently watched [A Faster Horse](https://www.youtube.com/watch?v=_y1Vr2zaYJU), a documentary about the development of the 2015 Ford Mustang. It examines how that Mustang, whose nameplate is an icon in Ford’s history (and America’s), went from idea to final shipping product — a five year process.

@@ -2,6 +2,7 @@
 layout: post
 title: It’s time for recurring meetings to end
 subtitle: Why are we still doing this to each other?
+type: default
 ---
 
 It’s thankfully been a really long time since I’ve been invited to a recurring meeting. But I heard a couple mentions of them last week, and it brought back terrible pre-Basecamp memories.

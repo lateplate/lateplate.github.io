@@ -1,10 +1,11 @@
 ---
 layout: post
 title: The snowball effect of minimizing
+type: default
 ---
 Over the last year or so, I've been able to minimize my physical clutter down to a level I'm pretty happy with (mental clutter is a topic for another time).
 
-I remember it was really hard to get started, though. Once I embraced the idea of minimalism, everything in my home started to look like clutter. It was a refreshing perspective, but it was also overwhelming. 
+I remember it was really hard to get started, though. Once I embraced the idea of minimalism, everything in my home started to look like clutter. It was a refreshing perspective, but it was also overwhelming.
 
 But I learned a trick early on that's been immensely valuable: *everything exists to support something else*. Getting rid of one thing means dozens or hundreds more will follow.
 
@@ -24,11 +25,11 @@ And then went the TV!
 
 ### Cutting the cord: The effects
 
-When I stop and consider that timeline of events, it's pretty amazing. 
+When I stop and consider that timeline of events, it's pretty amazing.
 
-A simple decision to cut cable put hundreds of dollars of rarely-used electronics back into our bank account. 
+A simple decision to cut cable put hundreds of dollars of rarely-used electronics back into our bank account.
 
-I freed up a huge chunk of space in our house, which gave our boys a lot more safe space to play. 
+I freed up a huge chunk of space in our house, which gave our boys a lot more safe space to play.
 
 I no longer had to expend a single brain cycle worrying about cleaning or maintaining those items, or even catching up on TV shows. With less distractions, I could focus on more writing, reading, programming, and cooking.
 

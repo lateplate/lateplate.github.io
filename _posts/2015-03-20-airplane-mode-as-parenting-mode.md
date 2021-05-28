@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Airplane mode as parenting mode
+type: default
 ---
 
 Yesterday I read ["Don’t Text While Parenting — It Will Make You Cranky"](http://time.com/14953/parents-who-use-smartphones-in-front-of-their-kids-are-crankier/), and it really got me thinking. It basically said that while you're around your kids and looking at your phone, you're going to be a terrible parent. And sadly, I can 100% relate to that.
@@ -19,9 +20,9 @@ So how do I keep my phone/camera close, but not be lured by the stupidity of thi
 
 **Airplane mode.**
 
-When I'm spending dedicated time with my kids, I'm going to turn my phone to airplane mode. I won't be interrupted by calls or texts, and I won't be able to connect to the internet. 
+When I'm spending dedicated time with my kids, I'm going to turn my phone to airplane mode. I won't be interrupted by calls or texts, and I won't be able to connect to the internet.
 
-Of course re-enabling all of that is only a tap away, but I hope it's just enough friction that it instills a little discipline in me. That way I can still reach for my phone's camera and capture the important moments, but not be tempted to do anything more than that. 
+Of course re-enabling all of that is only a tap away, but I hope it's just enough friction that it instills a little discipline in me. That way I can still reach for my phone's camera and capture the important moments, but not be tempted to do anything more than that.
 
 For you techies, many devices will still maintain your GPS connection in airplane mode, which means your photos will still be geotagged and your location memories preserved. (Your mileage may vary, but the geotagging still worked on my Nexus 5.)
 

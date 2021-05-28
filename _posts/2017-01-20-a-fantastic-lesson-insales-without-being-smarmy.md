@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A fantastic lesson in sales (without being smarmy)
+type: default
 ---
 
 There are few things I hate more than a smarmy sales experience. You know the ones — high pressure, hidden costs, and with zero interest in your actual happiness. Basically, your typical car salesperson.

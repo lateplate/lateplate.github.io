@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The immeasurable value of customer friendly policies
+type: default
 ---
 
 A while back we bought a duvet cover from Brooklinen based on, of course, [a glowing Wirecutter review](https://thewirecutter.com/reviews/best-duvet-cover/). We’ve been happy with it (it’s super comfy!), but sometime in the last couple months the teeniest, tiniest of holes appeared in it.

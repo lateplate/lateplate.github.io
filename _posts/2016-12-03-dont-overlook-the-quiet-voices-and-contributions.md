@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Don’t overlook the quiet voices and contributions
+type: star
 ---
 
 A few years ago I worked at a mega corporation. I had just finished up a brutal week of all-day meetings with 20 people. My boss and I sat down to catch up. Eventually, she warned:
