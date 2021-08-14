@@ -8,8 +8,6 @@ I know this feeling isn’t unique. In fact you might be feeling today how I did
 
 But change is within your grasp. It won’t be easy, but you can be damn sure it’ll be worth it. I speak from personal experience.
 
----
-
 When I eventually reached my job-hate breaking point, the first order of business was to quit said job. I have to admit it was kind of exciting and liberating. But it was also intensely scary.
 
 I was walking away from a good job working at a stable, respected company — a company where I could’ve had a prosperous (albeit miserable) career. I voluntarily went from having a very generous salary to one of literally $0.
@@ -33,8 +31,6 @@ Now look, I’m not recounting this story as some kind of humble brag or to make
 I bring it up because I hope it shows the kinds of crazy, unexpected, wonderful things that can happen to anyone’s career if you take a chance.
 
 I’m not special — all I did was acknowledge my unhappiness, embrace the uneasiness of change, and got to work. Yes, there was some luck involved, but even if I didn't land at my first choice of jobs, I still would’ve been happier and better off for having tried.
-
----
 
 Of course it’s really important to remember that everyone’s situation is different, so don’t take my story as gospel.
 
