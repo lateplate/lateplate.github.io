@@ -4,7 +4,7 @@ title: A shining example of how to teach
 type: star
 ---
 
-I was recently fumbling my way through a programming problem. I couldn’t figure out the root issue, so I cobbled together a shaky solution and posted my ¯\_(ツ)_/¯ on Basecamp.
+I was recently fumbling my way through a programming problem. I couldn’t figure out the root issue, so I cobbled together a shaky solution and posted my ¯\_(ツ)_/¯.
 
 Then Sam Stephenson stepped in to help. I admire and respect Sam a lot — he’s patient, thoughtful, and wicked smart.
 

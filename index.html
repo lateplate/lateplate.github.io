@@ -6,8 +6,18 @@ title: dankim.org
   Engineering Manager and an Android Developer</a>. You can reach me anytime
   via <a href="mailto:hello@dankim.org">email</a> or <a href="https://twitter.com/dankim">Twitter</a>.
 </p>
-<hr class="fancy"/>
 <div id="home">
+  <h2>Conference Talks</h2>
+  <ul class="posts">
+      <li><a href="/2019/12/16/kotlinconf-2019-ktor.html" class="post_title">KotlinConf 2019: Ktor for Mobile Developers</a</li>
+      <li><a href="/2019/09/29/droidcon-nyc-calm-is-key.html" class="post_title">Droidcon NYC 2019: Calm is key</a><span></li>
+      <li><a href="https://www.youtube.com/watch?v=tnBVD6WLj9M" class="post_title">Kotlin Everywhere 2019: A Kotlin Journey</a></li>
+      <li><a href="https://www.youtube.com/watch?v=BSmtImhy6kE" class="post_title">Chicago Roboto 2018: The Future of the Android Community is You</a> (<a href="/2018/09/07/the-future-of-the-android-community-is-you.html" class="post_title">text</a>)</li>
+      <li><a href="https://www.youtube.com/watch?v=NRUmRtCv0co" class="post_title">DroidCon NYC 2018 Keynote: The Future of the Android Community is You</a></li>
+      <li><a href="https://www.youtube.com/watch?v=LP3PaPrIFHo" class="post_title">KotlinConf 2018: Android KTX: A Dash of Kotlin Makes All the Difference!</a></li>
+      <li><a href="https://www.youtube.com/watch?v=fsUF5f4GnHc" class="post_title">DroidCon NYC 2017: Getting to 100% Kotlin</a></li>
+      <li><a href="https://www.youtube.com/watch?v=wsQfyNilJAI" class="post_title">Android Summit 2017: Getting to 100% Kotlin</a></li>
+  </ul>
   <h2>Selected Musings</h2>
     <ul class="posts">
         {% for post in site.posts %}
@@ -16,30 +26,6 @@ title: dankim.org
             <a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | date: "%Y-%m-%d" }}]</span>
             {% endif %}
 
-        </li>
-        {% endfor %}
-    </ul>
-
-    <hr class="fancy"/>
-    <h2>Conference Talks</h2>
-    <ul class="posts">
-        <li><a href="/2019/12/16/kotlinconf-2019-ktor.html" class="post_title">KotlinConf 2019: Ktor for Mobile Developers</a</li>
-        <li><a href="/2019/09/29/droidcon-nyc-calm-is-key.html" class="post_title">Droidcon NYC 2019: Calm is key</a><span></li>
-        <li><a href="https://www.youtube.com/watch?v=tnBVD6WLj9M" class="post_title">Kotlin Everywhere 2019: A Kotlin Journey</a></li>
-        <li><a href="https://www.youtube.com/watch?v=BSmtImhy6kE" class="post_title">Chicago Roboto 2018: The Future of the Android Community is You</a> (<a href="/2018/09/07/the-future-of-the-android-community-is-you.html" class="post_title">text</a>)</li>
-        <li><a href="https://www.youtube.com/watch?v=NRUmRtCv0co" class="post_title">DroidCon NYC 2018 Keynote: The Future of the Android Community is You</a></li>
-        <li><a href="https://www.youtube.com/watch?v=LP3PaPrIFHo" class="post_title">KotlinConf 2018: Android KTX: A Dash of Kotlin Makes All the Difference!</a></li>
-        <li><a href="https://www.youtube.com/watch?v=fsUF5f4GnHc" class="post_title">DroidCon NYC 2017: Getting to 100% Kotlin</a></li>
-        <li><a href="https://www.youtube.com/watch?v=wsQfyNilJAI" class="post_title">Android Summit 2017: Getting to 100% Kotlin</a></li>
-    </ul>
-    <hr class="fancy"/>
-    <h2>Everything Else</h2>
-    <ul class="posts">
-        {% for post in site.posts %}
-        <li>
-            {% if post.type == "default" %}
-            <a href="{{ post.url }}" class="post_title">{{ post.title }}</a> <span>[{{ post.date | date: "%Y-%m-%d" }}]</span>
-            {% endif %}
         </li>
         {% endfor %}
     </ul>

@@ -2,7 +2,7 @@
 layout: post
 title: I went on vacation and a funny thing happened — I didn’t do any work
 subtitle: Many vacations are broken, filled with the stress of work. Help me bring back the work-free vacation.
-type: default
+type: star
 ---
 
 My family and I just returned from a 12 day vacation to the San Diego area, where my brother, mom, and dad all live.
@@ -47,7 +47,7 @@ While these statistics are damning, we’re all adults here. Much of this is und
 
 First and foremost, use your vacation days — all of them. Sounds obvious, but this should not be difficult. I don’t care how much your love your job. Find a way to use them. You’ve earned them and they’re part of your overall compensation, and you’re flushing money down the toilet if you don’t.
 
-And when you do take those hard-earned vacation days, you need to turn on your internal [work can wait](https://m.signalvnoise.com/basecamp-3--work-can-wait/#.u3obiz87b) mode for the entirety of your vacation by…
+And when you do take those hard-earned vacation days, you need to turn on your internal "work can wait" mode for the entirety of your vacation by…
 
 * **Recognizing that dedicated time away from work is actually what makes you more productive**. Working on vacation (including compulsively checking your email and other work apps) might feel productive, but you’re only sapping your long-term strength.
 * **Letting go of the idea that you have to know everything that’s going on**. If you’re at a moderately sized company, there’s always going to be a lot going on — far more than you can keep a pulse on. Relieve yourself of the idea that missing out is a bad thing and not only will your vacation be more pleasant, you’ll be more focused when you return to work.

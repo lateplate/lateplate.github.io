@@ -313,7 +313,7 @@ Secondly, and I think somewhat overlooked, is that **working on open source is a
 
 But when you work in open source, you can learn a bunch of new ways of doing things. You learn how other people and teams operate. You learn other ways of approaching problems. You consider different factors when you’re not writing closed source. The list goes on and on. By doing something out of the norm from your “regular” work, your opportunity to learn grows tremendously.
 
-Finally, **working on open source is an instant resume builder**. At Basecamp when we hire programmers, the first thing we do is ask for code to look at, because that’s the thing that matters the most (at least to start with). The problem is when you’re looking for a new job, a lot of times your old company is not exactly going to be offering for you to take their closed source code with you to show off.
+Finally, **working on open source is an instant resume builder**. When we hire programmers, the first thing we do is ask for code to look at, because that’s the thing that matters the most (at least to start with). The problem is when you’re looking for a new job, a lot of times your old company is not exactly going to be offering for you to take their closed source code with you to show off.
 
 The great thing about open source is that you have a portfolio ready to go. At any moment you can point to the work that you’ve done in open source and any prospective employers can immediately see the breadth and depth of your contributions. That makes you immediately more marketable.
 

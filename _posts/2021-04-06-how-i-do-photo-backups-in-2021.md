@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I do photo backups in 2021
-type: default
+type: star
 ---
 
 If you're anything like me, you prefer to have complete control over your photo library files. But backing up those files on a rolling, ongoing basis has long been a pretty disjointed and painful process. How do you get photos and videos off your phone on a regular basis, keep local copies, and upload them to the cloud without using a proprietary app or service?
@@ -10,7 +10,7 @@ Every combination of software I've tried in the past hasn't quite worked as smoo
 
 For those of you who firmly believe that iCloud Photos, Google Photos, Google Drive, or Dropbox meets your backup needs, then this post is not for you (and that's OK).
 
-But for some folks there are many good reasons that those services might not be a good fit — you don't want to pay the tech giants even more money, you don't trust them with your most treasured data, you have privacy concerns, they don't offer enough storage, you don't want to be at the whim of their pricing changes, you have concerns about the longevity of the company or service, you don't want to lock into a specific app/platform, there's no good way to restore your data, or any number of other reasons. For me it's all of the above.
+But for some folks there are many good reasons that those services might not be a good fit — you don't want to pay the tech giants even more money, you don't trust them with your most treasured data, you have privacy concerns, they don't offer enough storage, you don't want to be at the whim of their pricing changes, you have concerns about the longevity of the company or service, you don't want to lock into a specific app/platform, there's no good way to restore your data, or any number of other reasons.
 
 So after much experimentation and research I rolled this simple solution.
 

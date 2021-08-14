@@ -2,7 +2,7 @@
 layout: post
 title: The most helpful thing you can say to a teammate — “It’s your call”
 subtitle: Great people blossom when you nurture them with trust and respect
-type: default
+type: star
 ---
 
 When a teammate asks me a question, one of my favorite responses is “It’s your call.” It’s such a simple yet powerful phrase. In just a few words it conveys…

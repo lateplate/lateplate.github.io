@@ -4,10 +4,6 @@ title: Hate your job? Happier times are within your grasp
 type: star
 ---
 
-As is common this time of year, I took some time to reflect on life and work. And a few different things reminded me of how incredibly fortunate and happy I am to be working at Basecamp.
-
-But I bet you can guess the punchline — yeah, it wasn’t always like this. The year before I landed at Basecamp, things were pretty rough and I was miserable at work.
-
 I know this feeling isn’t unique. In fact you might be feeling today how I did years ago — coming home from work tired, uninspired, unhappy, and even angry. It’s not a good look.
 
 But change is within your grasp. It won’t be easy, but you can be damn sure it’ll be worth it. I speak from personal experience.
@@ -36,7 +32,7 @@ Now look, I’m not recounting this story as some kind of humble brag or to make
 
 I bring it up because I hope it shows the kinds of crazy, unexpected, wonderful things that can happen to anyone’s career if you take a chance.
 
-I’m not special — all I did was acknowledge my unhappiness, embrace the uneasiness of change, and got to work. Yes, there was some luck involved, but even if I landed somewhere other than Basecamp, I still would’ve been happier and better off for having tried.
+I’m not special — all I did was acknowledge my unhappiness, embrace the uneasiness of change, and got to work. Yes, there was some luck involved, but even if I didn't land at my first choice of jobs, I still would’ve been happier and better off for having tried.
 
 ---
 

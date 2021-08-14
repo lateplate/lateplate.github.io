@@ -18,12 +18,10 @@ But while I was there, I saw something horrifying, something I couldn’t shake 
 Look, I get it — Google I/O is a developer conference, and the “eat, sleep, code, repeat” phrase is intended to be a clever way (albeit a completely unoriginal one) of saying “coding is awesome and we want to do it all the time!” I appreciate the enthusiasm, I do.
 
 But there’s a damaging subtext, and that’s what bothers me. The phrase promotes an unhealthy perspective that programming is an all or nothing endeavor — that to excel at it, you have to go all in. It must be all consuming and the focus of your life.
+
 Such bullshit. In fact it’s the exact opposite.
-At Basecamp I work with some of the best programmers in the world. It’s no coincidence that they all have numerous interests and talents far outside of their programming capabilities.
 
-Whether it’s racing cars, loving art, reading, hiking, spending time in nature, playing with their dog, running, gardening, or just hanging out with their family, these top-notch programmers love life outside of code.
-
-That’s because they know that a truly balanced lifestyle — one that gives your brain and your soul some space to breathe non-programming air — actually makes you a better programmer.
+A truly balanced lifestyle — one that gives your brain and your soul some space to breathe non-programming air — actually makes you a better programmer.
 
 Life outside of code helps nurture important qualities: inspiration, creative thinking, patience, flexibility, empathy, and many more. All of these skills make you a better programmer, and you can’t fully realize them by just coding.
 
